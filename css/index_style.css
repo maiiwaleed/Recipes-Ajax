@@ -1,0 +1,15 @@
+
+.row img,
+.single-recipe{
+    height: 250px;
+}
+
+.overlay{
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+}
+
+.nav-item{
+    cursor: pointer;
+}
+
